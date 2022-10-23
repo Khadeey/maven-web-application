@@ -93,11 +93,11 @@
 		
 	</dependencies>
 	<distributionManagement>
-	    <releaseRepository>
+	    <repository>
 	      <id>nexus</id>
 	      <name>Tesla-application</name>
 	      <url>http://35.182.73.232:8081/repository/Tesla-web-app/</url>
-	    </releaseRepository>
+	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
